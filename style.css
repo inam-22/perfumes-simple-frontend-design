@@ -1,0 +1,40 @@
+.header{
+    border: 1px solid black;
+    max-width: 100%;
+    max-height: 100%;
+    text-align: center;
+    background-color: lightblue;
+    line-height:15px;
+   
+}
+.logo{
+    margin-left: 80%;
+}
+#div_top_hypers {
+    border: 1px solid black;
+    display:inline-block;  
+    height: 100%;
+    width:100%;
+    background-color: lightsalmon;
+}
+#ul_top_hypers {
+    display: inline;
+    margin-left: 510px;
+}
+#ul_top_hypers li {
+    display: inline-block;
+    padding: 20px;
+}
+.centrediv{
+     border: 1px solid black;
+     width: 100%;
+     text-align: center;
+     height:450px;
+     background-color: rgb(241,216,205);
+}
+.footer{
+    border: 1px solid black;
+    text-align: center;
+    color: gray;
+}
+
